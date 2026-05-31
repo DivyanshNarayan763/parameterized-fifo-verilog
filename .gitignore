@@ -1,0 +1,35 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.wlf
+
+# ModelSim / Questa
+work/
+transcript
+vsim.wlf
+
+# Vivado
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.xpr
+
+# Quartus
+db/
+incremental_db/
+output_files/
+
+# General
+*.log
+*.jou
+*.str
+*.bak
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
